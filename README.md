@@ -1,6 +1,8 @@
-### Hello! 👋
+## Hello! 👋
 
-#### I don't really make much here.
+### I don't really make much here.
+
+#### Most of my stuff is private.
 
 <!--
 **Sqaaakoi/Sqaaakoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
