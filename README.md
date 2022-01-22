@@ -45,7 +45,9 @@ Here's some ideas for it that I have.
 
 - Simple format for sharing modpacks
 
-- Better launcher and mods-installed-in-client compatibilitys
+- Better compatibility between launcher and mods running on the client
+
+- A skin changer that automatically detects what model to use, because **I'm tired of going on public Minecraft servers and seeing people who have applied an Alex model skin to the Steve model. It genuinely really annoys me. (Maybe I'll make a client-side mod that automatically fixes other players skins that are displayed to show the correct model.)** 
 
 ## Contact me
 
